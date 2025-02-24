@@ -85,9 +85,7 @@ You lost! The word was: only
 
 Process finished with exit code 0
 ---
-## Screenshots 
-![Screenshot](https://imgur.com/a/TdcCkbu)
-![screenshot](https://imgur.com/ygfOEeg)
+
 
 
 
